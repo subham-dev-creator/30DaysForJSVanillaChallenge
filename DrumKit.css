@@ -1,0 +1,29 @@
+.block{
+  float: left;
+  width: 100px;
+  border: 2px solid black;
+  margin: 2px;
+}
+.main{
+  margin-top: 150px;
+  margin-left: 100px;
+}
+h1{
+  text-align: center;
+  color: orange;
+}
+h3{
+  text-align: center;
+  color: red;
+}
+body{
+  width: 100%;
+  height: auto;
+  background-image: url("https://c.wallhere.com/photos/e1/a4/Alan_Walker_Marshmello-1142388.jpg!d");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+h1 .heading{
+  font-size: 30px;
+  color: black;
+}
